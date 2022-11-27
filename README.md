@@ -1,4 +1,7 @@
-userChrome is symlink to firefox user profile chrome folder
+for further conf:
+https://firefox-source-docs.mozilla.org/devtools-user/browser_toolbox/index.html
+
+userChrome symlinked to firefox user profile chrome folder
 ~/.mozilla/firefox/ijes0mzs.default-release-1669402644266/chrome/userChrome.css
 
 How to edit firefox chrome settings
