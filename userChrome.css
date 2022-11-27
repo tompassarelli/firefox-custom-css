@@ -1,0 +1,18 @@
+#TabsToolbar {
+    visibility: collapse;
+}
+
+#sidebar-header{ 
+    display: none !important;
+}
+
+/* "Auto-hide" address bar unless focused (Ctrl-L) */
+#navigator-toolbox-background {
+    height: 0px !important;
+    overflow: hidden;
+}
+#navigator-toolbox-background:hover, #navigator-toolbox-background:focus-within {
+    height: auto !important;
+    overflow: visible;
+}
+
